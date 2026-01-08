@@ -16,7 +16,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace Omnis.OdinSerializer.Utilities
+namespace OdinSerializer.Utilities
 {
     using System;
     using System.Threading;

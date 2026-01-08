@@ -16,7 +16,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     /// <summary>
     /// Provides an easy way of implementing custom formatters.

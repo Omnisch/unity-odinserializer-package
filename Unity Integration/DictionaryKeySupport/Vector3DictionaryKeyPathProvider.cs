@@ -16,11 +16,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-using Omnis.OdinSerializer;
+using OdinSerializer;
 
 [assembly: RegisterDictionaryKeyPathProvider(typeof(Vector3DictionaryKeyPathProvider))]
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     using System.Globalization;
     using UnityEngine;

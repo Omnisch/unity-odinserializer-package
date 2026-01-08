@@ -16,7 +16,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     public enum FormatterLocationStep
     {

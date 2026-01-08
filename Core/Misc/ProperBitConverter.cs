@@ -21,7 +21,7 @@
 
 using System.Globalization;
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     using System;
     using System.Runtime.InteropServices;

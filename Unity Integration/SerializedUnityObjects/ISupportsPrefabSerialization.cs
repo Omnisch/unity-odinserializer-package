@@ -16,7 +16,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     /// <summary>
     /// Indicates that an Odin-serialized Unity object supports prefab serialization.

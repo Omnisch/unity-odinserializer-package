@@ -15,7 +15,7 @@
 // limitations under the License.
 // </copyright>
 //-----------------------------------------------------------------------
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     /// <summary>
     /// Resolves external strings references to reference objects during serialization and deserialization.

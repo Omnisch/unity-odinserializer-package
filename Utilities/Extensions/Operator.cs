@@ -15,7 +15,7 @@
 // limitations under the License.
 // </copyright>
 //-----------------------------------------------------------------------
-namespace Omnis.OdinSerializer.Utilities
+namespace OdinSerializer.Utilities
 {
     /// <summary>
     /// Determines the type of operator.

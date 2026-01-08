@@ -20,9 +20,9 @@
 #define CAN_EMIT
 #endif
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
-    using Omnis.OdinSerializer.Utilities;
+    using OdinSerializer.Utilities;
     using System;
     using System.Collections.Generic;
     using System.Linq;

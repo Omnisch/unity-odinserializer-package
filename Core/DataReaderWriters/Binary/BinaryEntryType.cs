@@ -16,7 +16,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     /// <summary>
     /// Entry types in the binary format written by <see cref="BinaryDataWriter"/>.

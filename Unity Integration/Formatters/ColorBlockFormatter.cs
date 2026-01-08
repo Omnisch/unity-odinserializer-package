@@ -16,11 +16,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-using Omnis.OdinSerializer;
+using OdinSerializer;
 
 [assembly: RegisterFormatterLocator(typeof(ColorBlockFormatterLocator))]
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     using System;
     using System.Reflection;

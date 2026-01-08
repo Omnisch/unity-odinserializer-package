@@ -24,7 +24,7 @@
 #define CAN_EMIT
 #endif
 
-namespace Omnis.OdinSerializer.Utilities
+namespace OdinSerializer.Utilities
 {
     using System;
     using System.Reflection;

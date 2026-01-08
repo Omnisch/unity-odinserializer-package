@@ -17,7 +17,7 @@
 //-----------------------------------------------------------------------
 
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     using Utilities;
     using System;

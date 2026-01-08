@@ -18,7 +18,7 @@
 
 using System.Globalization;
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     using System;
 

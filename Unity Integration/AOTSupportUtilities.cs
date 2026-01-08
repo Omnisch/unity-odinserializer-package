@@ -18,9 +18,9 @@
 
 #if UNITY_EDITOR
 
-namespace Omnis.OdinSerializer.Editor
+namespace OdinSerializer.Editor
 {
-    using Omnis.OdinSerializer.Utilities;
+    using OdinSerializer.Utilities;
     using System;
     using System.Collections.Generic;
     using System.IO;

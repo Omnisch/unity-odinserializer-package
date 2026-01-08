@@ -15,7 +15,7 @@
 // limitations under the License.
 // </copyright>
 //-----------------------------------------------------------------------
-namespace Omnis.OdinSerializer.Utilities.Unsafe
+namespace OdinSerializer.Utilities.Unsafe
 {
     using System;
     using System.Runtime.InteropServices;

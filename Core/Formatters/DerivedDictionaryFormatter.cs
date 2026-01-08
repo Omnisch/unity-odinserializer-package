@@ -16,11 +16,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-using Omnis.OdinSerializer;
+using OdinSerializer;
 
 [assembly: RegisterFormatter(typeof(DerivedDictionaryFormatter<,,>), weakFallback: typeof(WeakDictionaryFormatter), priority: -1)]
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     using System;
     using System.Collections.Generic;

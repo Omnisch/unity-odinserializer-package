@@ -16,11 +16,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-using Omnis.OdinSerializer;
+using OdinSerializer;
 
 [assembly: RegisterFormatter(typeof(CoroutineFormatter))]
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     using System;
     using UnityEngine;

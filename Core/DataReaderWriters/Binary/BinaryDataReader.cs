@@ -16,9 +16,9 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
-    using Omnis.OdinSerializer.Utilities.Unsafe;
+    using OdinSerializer.Utilities.Unsafe;
     using System;
     using System.Collections.Generic;
     using System.IO;

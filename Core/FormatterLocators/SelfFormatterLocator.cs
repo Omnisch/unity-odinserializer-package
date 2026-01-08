@@ -16,11 +16,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-using Omnis.OdinSerializer;
+using OdinSerializer;
 
 [assembly: RegisterFormatterLocator(typeof(SelfFormatterLocator), -60)]
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     using System;
     using Utilities;

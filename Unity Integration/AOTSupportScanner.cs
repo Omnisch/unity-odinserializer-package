@@ -18,7 +18,7 @@
 
 #if UNITY_EDITOR
 
-namespace Omnis.OdinSerializer.Editor
+namespace OdinSerializer.Editor
 {
     using Utilities;
     using System;

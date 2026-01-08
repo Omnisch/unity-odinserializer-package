@@ -18,7 +18,7 @@
 
 //#define PREFAB_DEBUG
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     using System.Globalization;
     using System;

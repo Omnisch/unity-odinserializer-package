@@ -16,12 +16,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-using Omnis.OdinSerializer;
+using OdinSerializer;
 
 [assembly: RegisterFormatter(typeof(Vector2IntFormatter))]
 [assembly: RegisterFormatter(typeof(Vector3IntFormatter))]
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     using UnityEngine;
 

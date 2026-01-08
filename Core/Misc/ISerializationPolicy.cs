@@ -15,7 +15,7 @@
 // limitations under the License.
 // </copyright>
 //-----------------------------------------------------------------------
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
     using System.Reflection;
 

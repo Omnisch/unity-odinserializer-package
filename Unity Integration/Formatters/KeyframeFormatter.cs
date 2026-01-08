@@ -16,13 +16,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-using Omnis.OdinSerializer;
+using OdinSerializer;
 
 [assembly: RegisterFormatter(typeof(KeyframeFormatter))]
 
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
-    using Omnis.OdinSerializer.Utilities;
+    using OdinSerializer.Utilities;
     using UnityEngine;
 
     /// <summary>

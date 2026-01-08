@@ -15,9 +15,9 @@
 // limitations under the License.
 // </copyright>
 //-----------------------------------------------------------------------
-namespace Omnis.OdinSerializer
+namespace OdinSerializer
 {
-    using Omnis.OdinSerializer.Utilities;
+    using OdinSerializer.Utilities;
     using System;
     using System.Collections;
     using System.Collections.Generic;
