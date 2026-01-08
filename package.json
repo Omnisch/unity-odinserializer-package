@@ -1,0 +1,12 @@
+{
+  "name": "com.omnistudio.odinserializer",
+  "displayName": "Odin Serializer (Omnis Forked)",
+  "version": "2025.10.1",
+  "unity": "2020.3",
+  "description": "A repackaged version of Odin Serializer for internal projects.",
+  "author": {
+    "name": "Team Sirenix (repackaged by Omnistudio)"
+  },
+  "licensesUrl": "https://github.com/TeamSirenix/odin-serializer",
+  "hideInEditor": false
+}
